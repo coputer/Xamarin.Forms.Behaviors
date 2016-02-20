@@ -7,3 +7,7 @@ At the moment, the collection just has the EventToCommandBehavior which is very 
 If you have any other suggestions or you just want to collaborate with this project you'll be very welcome.
 
 Enjoy!
+
+# Current Behaviours
+
+- EventToCommand
